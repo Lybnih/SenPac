@@ -1,3 +1,7 @@
+<section style="text-align: center;">
+  <img width="100%" border="0" margin="0" padding="0" src="https://github.com/Lybnih/SenPac/assets/132515156/a602b482-e637-4859-b3fe-093158f1d811">
+</section>
+
 # SenPac: Um clássico revisitado :joystick:
 
 SenPac é um jogo inspirado no icônico Pac-Man, onde você controla o faminto Pac-Man em sua jornada para devorar todos os pontos dentro de um labirinto cheio de desafios. Mas cuidado! Fantasmas traiçoeiros estão à espreita, prontos para acabar com sua diversão. 👻
