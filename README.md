@@ -34,9 +34,11 @@ SenPac é um jogo inspirado no icônico Pac-Man, onde você controla o faminto P
 
 
 <section style="text-align: center;">
-  
-  https://github.com/Lybnih/SenPac/assets/132515156/2b381e3a-242a-4042-b507-21bb11758f94
-  
+  <a width="100%" border="0" margin="0" padding="0">  
+
+https://github.com/Lybnih/SenPac/assets/132515156/163494d3-3b6a-4f8a-a2f2-9be108be5e12
+
+  </a>
 </section>
 
 
