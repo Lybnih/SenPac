@@ -33,6 +33,8 @@ SenPac é um jogo inspirado no icônico Pac-Man, onde você controla o faminto P
 - Desenvolvido por **Vitória Lybnih da Silva**.
 
 
+## **De uma olhada:**
+
 <section style="text-align: center;">
   <a width="100%" border="0" margin="0" padding="0">  
 
